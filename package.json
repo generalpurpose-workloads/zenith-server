@@ -1,0 +1,15 @@
+{
+  "name": "zenith_server",
+  "version": "1.0.0",
+  "description": "A build tool tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "cli-utilities",
+    "build"
+  ],
+  "license": "MIT"
+}
